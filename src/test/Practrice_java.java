@@ -25,5 +25,7 @@ public class Practrice_java {
 		System.out.println(count);
 		System.out.println(k);
 		
+		System.out.println("Changed happen in the letest code");
+		
 	}
 }
